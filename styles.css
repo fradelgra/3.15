@@ -1,0 +1,11 @@
+table {
+    border: 1px red solid;
+}
+td.cuadrado {
+    border: 1px blue solid;
+}
+table.tercera {
+    border: 1px green solid;
+    width: 30%;
+    text-align: center;
+}
